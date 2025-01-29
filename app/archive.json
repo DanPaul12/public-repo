@@ -1,0 +1,162 @@
+[
+  {
+    "title": "The Raven",
+    "image": "next.svg",
+    "posted": "2024",
+    "tags": ["War", "Spoken Word", "City"],
+    "desc": "A poem about the raven posted in 2024 on TikTok by a user named @poetry",
+    "url": "/collection/"
+  },
+  {
+    "title": "Nature in Motion",
+    "image": "next.svg",
+    "posted": "2023",
+    "tags": ["Nature", "Spoken Word", "Ruin"],
+    "desc": "A poem about nature in the wreckage of a city posted in 2023 on TikTok by a user named @natureMotions",
+    "url": "/collection/"
+  },
+  {
+    "title": "Echoes of Silence",
+    "image": "silence_echo.svg",
+    "posted": "2022",
+    "tags": ["Silence", "Spoken Word", "City"],
+    "desc": "An exploration of the city's silence during curfew, shared by @cityVoices on TikTok in 2022.",
+    "url": "/collection/echoes-silence"
+  },
+  {
+    "title": "Shattered Dreams",
+    "image": "dreams_shattered.svg",
+    "posted": "2023",
+    "tags": ["Dreams", "Ruin", "Conflict"],
+    "desc": "A poem about lost dreams amidst the chaos, posted in 2023 by @dreamCatcher.",
+    "url": "/collection/shattered-dreams"
+  },
+  {
+    "title": "River of Tears",
+    "image": "river_tears.svg",
+    "posted": "2024",
+    "tags": ["Tears", "War", "Nature"],
+    "desc": "Reflections on the flowing river amidst destruction, shared by @poetNature on TikTok in 2024.",
+    "url": "/collection/river-tears"
+  },
+  {
+    "title": "City of Ghosts",
+    "image": "ghosts_city.svg",
+    "posted": "2023",
+    "tags": ["Ghosts", "City", "War"],
+    "desc": "A haunting portrayal of a once-bustling city, narrated by @hauntedCity in 2023.",
+    "url": "/collection/city-ghosts"
+  },
+  {
+    "title": "Whispers in the Wind",
+    "image": "wind_whispers.svg",
+    "posted": "2024",
+    "tags": ["Wind", "Nature", "Conflict"],
+    "desc": "A poignant tale of whispers carried by the wind, by @windWhisperer in 2024.",
+    "url": "/collection/whispers-wind"
+  },
+  {
+    "title": "Remnants of a Smile",
+    "image": "smile_remnants.svg",
+    "posted": "2022",
+    "tags": ["Smile", "War", "City"],
+    "desc": "Memories of smiles in better times, shared by @memoryLane in 2022.",
+    "url": "/collection/remnants-smile"
+  },
+  {
+    "title": "Bloom in the Ashes",
+    "image": "bloom_ashes.svg",
+    "posted": "2023",
+    "tags": ["Bloom", "Nature", "Ruins"],
+    "desc": "A story of resilience and growth amidst ruins, by @ashesToBloom in 2023.",
+    "url": "/collection/bloom-ashes"
+  },
+  {
+    "title": "Songs of the Forgotten",
+    "image": "forgotten_songs.svg",
+    "posted": "2024",
+    "tags": ["Songs", "War", "City"],
+    "desc": "Melodies of the forgotten souls, posted by @forgottenSongs in 2024.",
+    "url": "/collection/songs-forgotten"
+  },
+  {
+    "title": "Eyes of the Storm",
+    "image": "storm_eyes.svg",
+    "posted": "2022",
+    "tags": ["Storm", "Nature", "Conflict"],
+    "desc": "A reflection on the storm's fury, shared by @stormWatcher in 2022.",
+    "url": "/collection/eyes-storm"
+  },
+  {
+    "title": "Footprints in the Dust",
+    "image": "footprints_dust.svg",
+    "posted": "2023",
+    "tags": ["Footprints", "War", "City"],
+    "desc": "The tale of lives imprinted in the dust, by @dustTrails in 2023.",
+    "url": "/collection/footprints-dust"
+  },
+  {
+    "title": "Dawn of Hope",
+    "image": "hope_dawn.svg",
+    "posted": "2024",
+    "tags": ["Hope", "Nature", "Ruins"],
+    "desc": "A poem about the first light after a long night, by @dawnHope in 2024.",
+    "url": "/collection/dawn-hope"
+  },
+  {
+    "title": "Chorus of Chaos",
+    "image": "chaos_chorus.svg",
+    "posted": "2022",
+    "tags": ["Chaos", "War", "City"],
+    "desc": "An intense depiction of chaos in the city, narrated by @chaosChorus in 2022.",
+    "url": "/collection/chorus-chaos"
+  },
+  {
+    "title": "Leaves of Change",
+    "image": "change_leaves.svg",
+    "posted": "2023",
+    "tags": ["Change", "Nature", "Conflict"],
+    "desc": "A poem reflecting on the changing seasons amidst conflict, by @changeLeaves in 2023.",
+    "url": "/collection/leaves-change"
+  },
+  {
+    "title": "Waves of Despair",
+    "image": "despair_waves.svg",
+    "posted": "2024",
+    "tags": ["Despair", "Nature", "Ruins"],
+    "desc": "A moving piece about despair and hope, shared by @wavesDespair in 2024.",
+    "url": "/collection/waves-despair"
+  },
+  {
+    "title": "Flames of Memory",
+    "image": "memory_flames.svg",
+    "posted": "2022",
+    "tags": ["Memory", "War", "City"],
+    "desc": "A story of memories etched in the flames, by @flamesMemory in 2022.",
+    "url": "/collection/flames-memory"
+  },
+  {
+    "title": "Heartbeats in the Rubble",
+    "image": "rubble_heartbeats.svg",
+    "posted": "2023",
+    "tags": ["Heartbeats", "War", "Ruins"],
+    "desc": "A tribute to lives persisting in the rubble, by @heartbeatsRubble in 2023.",
+    "url": "/collection/heartbeats-rubble"
+  },
+  {
+    "title": "Veil of Shadows",
+    "image": "shadows_veil.svg",
+    "posted": "2024",
+    "tags": ["Shadows", "War", "City"],
+    "desc": "An evocative poem about the city under the veil of shadows, by @shadowsVeil in 2024.",
+    "url": "/collection/veil-shadows"
+  },
+  {
+    "title": "Petals in the Storm",
+    "image": "storm_petals.svg",
+    "posted": "2022",
+    "tags": ["Petals", "Nature", "Conflict"],
+    "desc": "A poetic depiction of delicate petals surviving the storm, shared by @stormPetals in 2022.",
+    "url": "/collection/petals-storm"
+  }
+]
