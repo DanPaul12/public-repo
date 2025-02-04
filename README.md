@@ -1,7 +1,10 @@
 # Ukrainian Media Digital Archive
 
 ## Overview
-This project is still under development, but feel free to explore the code snippets above and the screenshots below to get a sense of the functionality
+This project is is a Next.js app funded by a Stanford Fellowship Grant that seeks to archive Ukrainian social media content in the wake of the Russian invasion, in order to preserve culture and heritage. It is still under development, but so far functions as an accessible and user-friendly interface to interact with this content, where each video is searchable by multiple parameters.
+
+## To Run
+This project is still under development, but feel free to explore the code above or the screenshots below to get a sense of the functionality. Clone the repository and then npm run dev
 
 ## Technologies Used
 
